@@ -48,6 +48,7 @@ a {
 	text-decoration: none;
 	width:500px;
 	color:white;
+	margin:10px;
 
 
 }
@@ -55,6 +56,10 @@ a {
 border:none;
 background: #333;
 padding:8px;
+
+ }
+ .add{
+ 	text-align:center;
 
  }
 
