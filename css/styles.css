@@ -2,6 +2,16 @@
 
 
 /* Show Grid */
-.showgrid {
-	background: blue;
+body{
+	background:url(http://fc07.deviantart.net/fs71/i/2011/130/9/2/osxlion_inspired_grey_by_djeric-d3g27m1.jpg);
+	width: 800px;
+	margin: 0 200px 0 200px ;
+}
+
+.major{
+	width:400px;
+}
+.background{
+	width:400px;
+	text-align: justify;
 }
