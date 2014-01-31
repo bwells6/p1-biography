@@ -8,10 +8,9 @@ body{
 	margin: 0 200px 0 200px ;
 }
 
-.fam{
 
 	
-}
+
 .me {
 width:200px;
 height:200px;
@@ -19,30 +18,31 @@ height:200px;
 
 }
 
-
-
-
-
 .major{
 	width:400px;
 
 }
-.main{
-	display:inline-block;
-}
+
+
 .background {
-	width:400px;
+	float:left;
+	width:375px;
 	
 	text-align: justify;
-	padding: 5px;
+	
+	
 
 }
 .objectives{
-	width:400px;
-	
-	
+	float:right;
+	width:375px;
 	text-align:justify;
-	padding:5px;
+	
 }
+.other{
+
+	float: left;
+}
+
 
 
