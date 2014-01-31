@@ -7,11 +7,34 @@ body{
 	width: 800px;
 	margin: 0 200px 0 200px ;
 }
+.me{
+width:200px;
+height:200px;
+
+}
+
+
 
 .major{
 	width:400px;
+
 }
-.background{
+.main{
+	display:inline-block;
+}
+.background {
 	width:400px;
+	
 	text-align: justify;
+	padding: 5px;
+
 }
+.objectives{
+	width:400px;
+	
+	
+	text-align:justify;
+	padding:5px;
+}
+
+
