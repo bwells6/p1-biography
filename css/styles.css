@@ -44,5 +44,27 @@ height:200px;
 	float: left;
 }
 
+a {
+	text-decoration: none;
+	width:500px;
+	color:white;
+
+
+}
+.link{
+border:none;
+background: #333;
+padding:8px;
+
+ }
+
+
+footer{
+width:800px;
+height:40px;
+
+
+}
+
 
 
