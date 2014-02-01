@@ -18,10 +18,15 @@ span{
 	font-size: 40px;
 }
 .eagle{
-	width:100px;
-	height:100px;
-	float: right;
-	margin-top: -7px;
+	width:120px;
+	height:120px;
+	
+
+
+
+}
+.eag{
+	float:right;
 
 }	
 
@@ -33,6 +38,7 @@ height:200px;
 }
 
 .major{
+	width:400px;
 	
 
 }
