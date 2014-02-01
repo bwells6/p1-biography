@@ -6,7 +6,10 @@ body{
 	background:url(http://www.commentnation.com/backgrounds/images/charcoal_gray_marbled_paper_background_texture_seamless.jpg);
 	width: 800px;
 	margin: 0 200px 0 200px ;
+	font-family: 'Josefin Sans', sans-serif;
+	color:white;
 }
+
 
 h1{ 
 font-size: 50px;
