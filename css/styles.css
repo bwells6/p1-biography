@@ -8,8 +8,15 @@ body{
 	margin: 0 200px 0 200px ;
 }
 
+h1{ 
+font-size: 50px;
+background: #333;
+padding:10px;
+}
+span{
 
-	
+	font-size: 40px;
+}	
 
 .me {
 width:200px;
