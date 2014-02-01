@@ -25,18 +25,12 @@ span{
 	margin-top: 5px;
 }
 
-
-
-
-	
-
 .fam, .me, .kin{
 width:260px;
 height:260px;
 margin-left: 3px;
 
 }
-
 
 .eagle{
 	width:120px;
@@ -45,39 +39,29 @@ margin-left: 3px;
 
 .eag{
 	float:right;
-
-
 }
-
 
 .boarder{
 	width:800px;
-
 }
 
 .major{
 	width:400px;
-	
-
 }
-
 
 .background {
 	float:left;
 	width:375px;
 	text-align: justify;
-	
-	
-
 }
+
 .objectives{
 	float:right;
 	width:375px;
 	text-align:justify;
-	
 }
-.other{
 
+.other{
 	float: left;
 }
 
@@ -90,11 +74,8 @@ a {
 
 a:hover{
 	background: black;
-
-	
-
-
 }
+
 .link{
 border:none;
 background: #333;
@@ -103,15 +84,11 @@ padding:8px;
  }
  .add{
  	text-align:center;
-
- }
-
+}
 
 footer{
 width:800px;
 height:40px;
-
-
 }
 
 
