@@ -16,6 +16,13 @@ padding:10px;
 span{
 
 	font-size: 40px;
+}
+.eagle{
+	width:100px;
+	height:100px;
+	float: right;
+	margin-top: -7px;
+
 }	
 
 .me {
@@ -26,7 +33,7 @@ height:200px;
 }
 
 .major{
-	width:400px;
+	
 
 }
 
