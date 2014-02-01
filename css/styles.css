@@ -3,7 +3,7 @@
 
 /* Show Grid */
 body{
-	background:url(http://fc07.deviantart.net/fs71/i/2011/130/9/2/osxlion_inspired_grey_by_djeric-d3g27m1.jpg);
+	background:url(http://www.commentnation.com/backgrounds/images/charcoal_gray_marbled_paper_background_texture_seamless.jpg);
 	width: 800px;
 	margin: 0 200px 0 200px ;
 }
@@ -56,6 +56,12 @@ a {
 	width:500px;
 	color:white;
 	margin:10px;
+}
+
+a:hover{
+	background: black;
+
+	
 
 
 }
